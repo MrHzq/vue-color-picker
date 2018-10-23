@@ -1,6 +1,6 @@
 # vue-color-picker
 
-vue 颜选择器
+vue 颜色选择器
 
 ```ruby
  <color-picker v-model="colorValue" :show="colorShow" defaultColor="#281e77" @change="onChange"></color-picker>
